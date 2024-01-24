@@ -4,7 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lambdua/Lambdua/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
+<div align="left">
 <span>  </span>
 </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lambdua&layout=compact&langs_count=8" />
 <span>  </span>
