@@ -5,7 +5,7 @@
 </picture>
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px;">
-    <div style="margin-right: 10px;">
+    <div style="margin-center: 10px;">
         <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lambdua&layout=compact&langs_count=8" />
          <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=Lambdua" />
     </div>
