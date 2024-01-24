@@ -10,7 +10,7 @@
 <span>  </span>
 </div>
 <div align="right">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Lambdua" />
 </div>
 # 🥱关于我
 
