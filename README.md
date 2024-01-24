@@ -4,6 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lambdua/Lambdua/output/github-contribution-grid-snake.svg">
 </picture>
 
+<div>
 <div align="left">
 <span>  </span>
 </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lambdua&layout=compact&langs_count=8" />
@@ -12,10 +13,8 @@
 <div align="right">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Lambdua" />
 </div>
-
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Lambdua&theme=minimal" />
 </div>
+
 # 🥱关于我
 
 - 🔭 I’m currently working on ...
