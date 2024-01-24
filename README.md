@@ -7,7 +7,7 @@
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
     <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
         <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lambdua&layout=compact&langs_count=8" />
-      <div> </div>
+      ""
         <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=Lambdua" />
     </div>
 </div>
