@@ -10,7 +10,7 @@
           <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=Lambdua" />
     </div>
 </div>
-<img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=lambduareadme" alt="visitor badge"/>
 
 
 
