@@ -4,11 +4,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lambdua/Lambdua/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div style="display: flex; justify-content: space-between; align-items: center; padding: 10px;">
-    <div >
-        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lambdua&layout=compact&langs_count=8" />
-    <p> </p>
-         <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=Lambdua" />
+<div style="display: flex; justify-content: center; align-items: center; padding: 10px;">
+    <div>
+        <img height="170px" style="margin-right: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lambdua&layout=compact&langs_count=8" />
+        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=Lambdua" />
     </div>
 </div>
 
