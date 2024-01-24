@@ -7,7 +7,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px;">
     <div >
         <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lambdua&layout=compact&langs_count=8" />
-      <span>  </span>
+    <p> </p>
          <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=Lambdua" />
     </div>
 </div>
