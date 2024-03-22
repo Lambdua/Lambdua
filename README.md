@@ -13,3 +13,11 @@
 
 
 # 🥱关于我
+- 一名java 工程师。目前积极学习ai（llm)相关知识。
+- 热爱交流，喜欢探讨、学习前沿技术。
+- 创业ing，对ai应用有想法、有技术能力的朋友欢迎联系、交流 wx: lt547670718 备注：github
+# ☕技术栈
+- java
+- spring全家桶
+- python
+- mongo,mysql,redis...
