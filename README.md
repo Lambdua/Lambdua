@@ -14,8 +14,10 @@
 
 # 🥱关于我
 - coder
+- Ai Context Engineer
 # ☕技术栈
 - java
 - spring全家桶
 - python
+- mq
 - mongo,mysql,redis...
