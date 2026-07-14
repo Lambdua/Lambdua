@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="360" viewBox="0 0 1200 360"
+     role="img" aria-labelledby="title desc">
+  <title id="title">Lambdua — AI Context Engineer</title>
+  <desc id="desc">Profile hero: AI Context Engineer who ships agent tooling and a widely used OpenAI Java client.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B0D10"/>
+      <stop offset="100%" stop-color="#12161C"/>
+    </linearGradient>
+    <linearGradient id="accentSoft" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E8A45A" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#E8A45A" stop-opacity="0.35"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#2A2F38" stroke-width="1" opacity="0.45"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#grid)" opacity="0.55"/>
+  <rect x="1" y="1" width="1198" height="358" rx="25" fill="none" stroke="#2A2F38" stroke-width="1.5"/>
+
+  <!-- left accent bar -->
+  <rect x="0" y="48" width="6" height="264" rx="3" fill="url(#accentSoft)"/>
+
+  <g id="title-block" transform="translate(56 48)">
+    <text x="0" y="18"
+          font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="15" fill="#E8A45A" letter-spacing="2.2">AI CONTEXT ENGINEER</text>
+
+    <text x="0" y="88"
+          font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif"
+          font-size="64" font-weight="700" fill="#F3F0E8">Lambdua</text>
+
+    <text x="0" y="138"
+          font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif"
+          font-size="22" fill="#C8C3B8">把上下文工程落地成可复用的 Agent 工具与库</text>
+    <text x="0" y="172"
+          font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif"
+          font-size="22" fill="#C8C3B8">Java · Spring · Python · LLM systems</text>
+
+    <g transform="translate(0 214)">
+      <rect x="0" y="0" width="132" height="36" rx="10" fill="#1A1F27" stroke="#2A2F38"/>
+      <text x="66" y="24" text-anchor="middle"
+            font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+            font-size="13" fill="#E6E1D6">openai4j</text>
+
+      <rect x="144" y="0" width="156" height="36" rx="10" fill="#1A1F27" stroke="#2A2F38"/>
+      <text x="222" y="24" text-anchor="middle"
+            font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+            font-size="13" fill="#E6E1D6">Maven Central</text>
+
+      <rect x="312" y="0" width="196" height="36" rx="10" fill="#1A1F27" stroke="#2A2F38"/>
+      <text x="410" y="24" text-anchor="middle"
+            font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+            font-size="13" fill="#E6E1D6">Agent Skills · MCP</text>
+    </g>
+  </g>
+
+  <!-- right: context-window motif -->
+  <g id="project-proof" transform="translate(760 52)">
+    <!-- outer context frame -->
+    <rect x="0" y="0" width="384" height="256" rx="18" fill="#15181E" stroke="#2A2F38" stroke-width="1.5"/>
+    <rect x="16" y="16" width="352" height="40" rx="10" fill="#0B0D10" stroke="#2A2F38"/>
+    <circle cx="36" cy="36" r="5" fill="#E8A45A"/>
+    <circle cx="54" cy="36" r="5" fill="#8A9099"/>
+    <circle cx="72" cy="36" r="5" fill="#8A9099"/>
+    <text x="96" y="41"
+          font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="13" fill="#8A9099">context.window</text>
+
+    <!-- message cards -->
+    <rect x="28" y="76" width="220" height="44" rx="10" fill="#1C222B" stroke="#2A2F38"/>
+    <text x="44" y="103"
+          font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="13" fill="#C8C3B8">system · skills · tools</text>
+
+    <rect x="136" y="134" width="220" height="44" rx="10" fill="#1C222B" stroke="#E8A45A" stroke-opacity="0.55"/>
+    <text x="152" y="161"
+          font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="13" fill="#F3F0E8">user · intent + evidence</text>
+
+    <rect x="28" y="192" width="220" height="44" rx="10" fill="#1C222B" stroke="#2A2F38"/>
+    <text x="44" y="219"
+          font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="13" fill="#C8C3B8">assistant · action path</text>
+
+    <!-- connection nodes -->
+    <path d="M248 98 C300 98, 300 156, 248 156" fill="none" stroke="#E8A45A" stroke-width="1.5" opacity="0.7"/>
+    <path d="M248 156 C300 156, 300 214, 248 214" fill="none" stroke="#8A9099" stroke-width="1.5" opacity="0.7"/>
+    <circle cx="248" cy="98" r="4" fill="#E8A45A"/>
+    <circle cx="248" cy="156" r="4" fill="#E8A45A"/>
+    <circle cx="248" cy="214" r="4" fill="#8A9099"/>
+  </g>
+</svg>

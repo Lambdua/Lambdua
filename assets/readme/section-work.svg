@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="132" viewBox="0 0 1200 132"
+     role="img" aria-labelledby="title desc">
+  <title id="title">Featured work</title>
+  <desc id="desc">Section header for featured public projects and proof.</desc>
+
+  <rect width="1200" height="132" rx="22" fill="#0B0D10"/>
+  <rect x="1" y="1" width="1198" height="130" rx="21" fill="none" stroke="#2A2F38"/>
+  <rect x="0" y="36" width="6" height="60" rx="3" fill="#E8A45A"/>
+
+  <text x="40" y="52"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="14" fill="#E8A45A" letter-spacing="2">01 · PROOF</text>
+  <text x="40" y="92"
+        font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif"
+        font-size="34" font-weight="700" fill="#F3F0E8">精选项目</text>
+
+  <g transform="translate(760 34)">
+    <rect x="0" y="0" width="392" height="64" rx="14" fill="#15181E" stroke="#2A2F38"/>
+    <text x="24" y="28"
+          font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="13" fill="#8A9099">public signal</text>
+    <text x="24" y="48"
+          font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif"
+          font-size="16" fill="#E6E1D6">真实仓库 · 可安装 · 可复用</text>
+  </g>
+</svg>
